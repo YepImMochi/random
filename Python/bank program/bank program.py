@@ -43,7 +43,7 @@ def withdraw():
             break
         else :
             print('please enter valid choice')
-            wth = input('how much do you wish to withdraw?: ')
+            wtdw = input('do you wish to withdraw?: ')
 
 
 print('bank program')
